@@ -1,8 +1,7 @@
 import './App.css'
-import PassGen from './PasswordGenerator';
 
 function App() {
-  return <PassGen/>;
+  return();
 }
 
 export default App

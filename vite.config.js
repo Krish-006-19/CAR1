@@ -8,4 +8,8 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base:'/CAR1/',
+  server: {
+    historyApiFallback: true,
+  }
 })
