@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": " https://krish-006-19.github.io/CAR1/",
+  "homepage": " https://github.com/Krish-006-19/Search_Galary.git ",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
