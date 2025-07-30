@@ -1,4 +1,4 @@
-# CAR1 — Password Generator
+# Password Generator
 
 A **secure and customisable password generator** built with **React & Vite**. Users can define the password length via a draggable slider and choose to include **words only**, **numbers only**, or **both**.
 
