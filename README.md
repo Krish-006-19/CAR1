@@ -23,7 +23,10 @@ A **secure and customisable password generator** built with **React & Vite**. Us
 ---
 
 ## 🧩 Demo & Preview
+#Live demo is available on this website
+https://krish-006-19.github.io/CAR1/
 
+#Preview
 <img width="899" height="460" alt="image" src="https://github.com/user-attachments/assets/6b542d0c-deaf-46dd-baa2-c9374d2d239b" />
 
 
