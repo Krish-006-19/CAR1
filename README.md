@@ -28,10 +28,3 @@ A **secure and customisable password generator** built with **React & Vite**. Us
 
 
 ---
-
-## ⚙️ Usage
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Krish-006-19/CAR1.git
-cd CAR1
