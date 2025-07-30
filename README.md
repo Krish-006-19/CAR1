@@ -24,7 +24,8 @@ A **secure and customisable password generator** built with **React & Vite**. Us
 
 ## 🧩 Demo & Preview
 
-*(Insert a GIF or screenshot here for project preview)*
+<img width="899" height="460" alt="image" src="https://github.com/user-attachments/assets/6b542d0c-deaf-46dd-baa2-c9374d2d239b" />
+
 
 ---
 
